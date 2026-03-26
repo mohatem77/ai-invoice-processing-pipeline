@@ -55,6 +55,13 @@ This pipeline supports:
 - faster invoice processing
 - better audit traceability
 
+  ## Repository Structure
+
+- docs/ → supporting documentation
+- pipeline/ → pipeline flow explanation
+- samples/ → example input and output payloads
+- screenshots/ → visual workflow examples
+
 ## My Contribution
 
 This work reflects my personal contribution to:

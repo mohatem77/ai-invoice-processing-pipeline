@@ -1,1 +1,7 @@
-
+{
+  "document_type": "invoice",
+  "source": "email_attachment",
+  "file_name": "INV-2024-001.pdf",
+  "supplier_submission_date": "2024-02-15",
+  "raw_text_preview": "Invoice No: INV-2024-001 Supplier: Global Supplies Ltd Total: 2625.00 USD VAT: 125.00 USD"
+}
